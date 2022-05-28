@@ -1,0 +1,15 @@
+-- Commands
+rm -r               : remove dir
+rm                  : remove files
+df -h               : Disk Space
+
+grep                : search 
+which               : get PATH
+
+-- Utilities 
+colorpicker         : Get Hex Color Codes Of Color On Screen
+ncdu                : Disk Usage Analyzer
+acpi                : Battery Info
+brightnessctl       : Brightness Info In Terminal
+nmtui               : Network Manager
+

@@ -1,0 +1,19 @@
+" VIM CONFIGURATION 
+set encoding=UTF-8
+set nowrap
+set showmatch
+set clipboard+=unnamedplus
+set showmode
+set wildmenu
+set wildmode=list:longest
+set expandtab
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set number
+set autoindent
+syntax on
+set nocompatible
+filetype off
+
+
