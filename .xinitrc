@@ -52,6 +52,5 @@ xsetroot -cursor_name left_ptr &
 exec picom &
 exec nitrogen --restore &
 exec xfce4-panel &
-exec terminator &
 exec xmonad
 
